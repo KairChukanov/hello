@@ -1,3 +1,1 @@
-Hello, world!
-second string
-3я строчка
+Другая строка
